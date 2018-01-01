@@ -1,2 +1,2 @@
 # JVMTI-APPAGENT
-JAVA AGENT implemented for Application Performance Monitor  
+JAVA AGENT implemented by JVMTI for Application Performance Monitor  
